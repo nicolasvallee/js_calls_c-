@@ -19,5 +19,7 @@ node-gyp build
 
 # Launch
 
-type node index.js
+type 
+
+node index.js
 
